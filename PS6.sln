@@ -8,6 +8,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PS6.Client", "Client\PS6.Cl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PS6.Shared", "Shared\PS6.Shared.csproj", "{BC41A52C-6AE9-4B2B-A1B1-409EBD674F67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS6.EF", "PS6.EF\PS6.EF.csproj", "{11F2AC33-64A9-42E1-9CED-AB0B9FC6BB86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,6 +56,18 @@ Global
 		{BC41A52C-6AE9-4B2B-A1B1-409EBD674F67}.Release|x64.Build.0 = Release|Any CPU
 		{BC41A52C-6AE9-4B2B-A1B1-409EBD674F67}.Release|x86.ActiveCfg = Release|Any CPU
 		{BC41A52C-6AE9-4B2B-A1B1-409EBD674F67}.Release|x86.Build.0 = Release|Any CPU
+		{11F2AC33-64A9-42E1-9CED-AB0B9FC6BB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F2AC33-64A9-42E1-9CED-AB0B9FC6BB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F2AC33-64A9-42E1-9CED-AB0B9FC6BB86}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{11F2AC33-64A9-42E1-9CED-AB0B9FC6BB86}.Debug|x64.Build.0 = Debug|Any CPU
+		{11F2AC33-64A9-42E1-9CED-AB0B9FC6BB86}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{11F2AC33-64A9-42E1-9CED-AB0B9FC6BB86}.Debug|x86.Build.0 = Debug|Any CPU
+		{11F2AC33-64A9-42E1-9CED-AB0B9FC6BB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F2AC33-64A9-42E1-9CED-AB0B9FC6BB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F2AC33-64A9-42E1-9CED-AB0B9FC6BB86}.Release|x64.ActiveCfg = Release|Any CPU
+		{11F2AC33-64A9-42E1-9CED-AB0B9FC6BB86}.Release|x64.Build.0 = Release|Any CPU
+		{11F2AC33-64A9-42E1-9CED-AB0B9FC6BB86}.Release|x86.ActiveCfg = Release|Any CPU
+		{11F2AC33-64A9-42E1-9CED-AB0B9FC6BB86}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
